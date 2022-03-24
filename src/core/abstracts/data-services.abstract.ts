@@ -6,5 +6,5 @@ export abstract class IDataServices {
 
   abstract albuns: IGenericRepository<Album>;
 
-  abstract music: IGenericRepository<Music>;
+  abstract musics: IGenericRepository<Music>;
 }
